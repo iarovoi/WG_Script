@@ -1,2 +1,2 @@
-# WG_Script
-Little tool that optimize motion designers workflow in Wargaming
+# WG Script
+Небольшой инструмент, который оптимизирует работу моушен дизайнера в Wargaming

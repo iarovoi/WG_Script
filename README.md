@@ -7,4 +7,4 @@
 3) Подключи output moduls **Settings_Alpha.aom** и **Settings_No_Alpha.aom** через AE **Edit>Templates>Output Module>Load**
 
 # Документация
-Функционал скрипта показан в [видео](https://www.youtube.com/watch?v=tu1D0Pichng)
+Функционал скрипта показан в [видео](https://youtu.be/E_wTaxDVDc8)
